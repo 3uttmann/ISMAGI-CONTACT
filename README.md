@@ -1,2 +1,24 @@
-# ISMAGI-CONTACT
-ISMAGI-CONTACT is a single-page web application (SPA) to manage a contact list (CRUD operations: Create, Read, Update, Delete). The application will interact with a simple RESTful API that will store data in a server-side db.json file. This project aims to consolidate mastery of fundamental and advanced Vue.js concepts.
+# contact-manager
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
